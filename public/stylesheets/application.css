@@ -1,0 +1,17 @@
+/* Application styles */
+h1 {
+    color: red;
+    font-size: 70px;
+}
+
+p {
+     color: purple;
+}
+
+#boba {
+    color: blue;
+}
+
+#grogu {
+    color: green;
+}
